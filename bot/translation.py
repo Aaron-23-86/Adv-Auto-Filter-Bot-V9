@@ -47,7 +47,7 @@ Mallu Cinema ഗ്രൂപ്പിന് വേണ്ടി മാത്ര�
     
     ABOUT_TEXT = """<b>➥ Name</b> : <code> Jon Snow</code>
     
-<b>➥ Creator</b> : <b><i><a href="https://t.me/AlbertEinstein_TG">AlbertEinstein_TG</a></i></b>
+<b>➥ Creator</b> : <b><i><a href="https://t.me/Termin_a_t_o_r">Aaron Shaji</a></i></b>
 
 <b>➥ Language</b> : <code>Python3</code>
 
