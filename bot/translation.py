@@ -4,7 +4,7 @@
 
 class Translation(object):
     
-    START_TEXT = എന്തുണ്ടെടാ മോനെ ""<b>{}!!</b> വിശേഷങ്ങൾ
+    START_TEXT = എന്തുണ്ടെടാ മോനെ {} വിശേഷങ്ങൾ
 .
 
 
